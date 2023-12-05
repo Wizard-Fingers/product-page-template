@@ -7,10 +7,10 @@ the above document is still a work in progress however this will be our template
 
 1 - create a clone of the project 
 `git clone https://github.com/`
-2- once cloned run this command:
-`npm install`
-3- then cd into that repo:
+2 - then cd into that repo:
 `cd repository name`
+3- once cloned run this command:
+`npm install`
 4- then create a branch of the project
 `git checkout -b new-branch`
 5- make the changes as discussed with me
@@ -25,4 +25,4 @@ Click on "New pull request."
 
 the people working on this project are:
 
-Art Beckett
+Arthur Guilherme
