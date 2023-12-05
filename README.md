@@ -1,4 +1,4 @@
-I'm basing this template off of this: 
+I'm basing this template on this: 
 https://www.canva.com/design/DAFuIH0curM/h4eMM36lK1_9FDSfyKw-UA/edit?utm_content=DAFuIH0curM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 the above document is still a work in progress however this will be our template to follow.
